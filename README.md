@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aswin931
 - 👀 I’m interested in Software developing and analyzing
-- 🌱 I’m currently learning BTech
+- 🌱 I’m currently a BTech Graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
